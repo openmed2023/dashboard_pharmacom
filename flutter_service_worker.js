@@ -14,8 +14,8 @@ const RESOURCES = {"assets/AssetManifest.json": "12bb67c99ea8bb7e3d2ae911ed8c38b
 "assets/assets/images/medical_update/viem-amidan.jpg": "77ccda7d408601ad65ee074df67ca346",
 "assets/assets/images/medical_update/viem-xoang.jpg": "1e8ba43854f9890d97805ea358e2f987",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "e25613b162881095a4e6fd8ce1333241",
-"assets/NOTICES": "c7dc003acb7c9e50020b7ff4580ecb0b",
+"assets/fonts/MaterialIcons-Regular.otf": "54bbfb00e36fe2dbb8e1be6c45f33bc8",
+"assets/NOTICES": "1bb38eb64758876f9f692929a180f2d4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_login/assets/images/ecorp.png": "24e80e9441acf073076893cebbe60ac0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "0db203e8632f03baae0184700f3bda48",
@@ -43,9 +43,9 @@ const RESOURCES = {"assets/AssetManifest.json": "12bb67c99ea8bb7e3d2ae911ed8c38b
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "cfff3a3902aff8a775940f5a51f30996",
 "icons/Icon-512.png": "48d2b17557419a18949272c13a14ec76",
-"index.html": "8d896e1e8aa350e880e792d31ef1d584",
-"/": "8d896e1e8aa350e880e792d31ef1d584",
-"main.dart.js": "77c70d75ffbbb1239b9a3433df52ea05",
+"index.html": "f4a5250a935c4e0cc2c9c9a8bfa7bfd8",
+"/": "f4a5250a935c4e0cc2c9c9a8bfa7bfd8",
+"main.dart.js": "f1f2d5cee4a56eb82d6c0fdeb4417404",
 "manifest.json": "6c78b34276cd4c89cf963fa51910dc32",
 "version.json": "aa33840cb398f135bc8abe5342c73571"};
 // The application shell files that are downloaded before a service worker can
