@@ -1,0 +1,57 @@
+{
+  "titleCommonOverview": "Quản lý theo chỉ tiêu",
+  "titleCommonOverviewTarget": "Chỉ tiêu",
+  "titleCommonOverviewProgress": "Tiến độ",
+  "titleCommonObjectType": "Thành viên",
+  "titleCommonObjectTypePharmacy": "Nhà thuốc",
+  "titleCommonObjectTypePharmacist": "Dược sĩ",
+  "titleCommonProvince": "Phân bố theo Tỉnh thành",
+  "titleCpeCourse": "Khóa học",
+  "titleCpeCoursePeriod": "Số tiết",
+  "titleCpeCourseDonor": "Nhà tài trợ",
+  "titleCpeCourseOrganizer": "Nhà tổ chức",
+  "titleCpeCourseCompanionUnit": "Đơn vị đồng hành",
+  "titleCpeOverviewTakeCourse": "Tham gia khóa học",
+  "titleCpeOverviewCompleteCourse": "Hoàn thành khóa học",
+  "titleCpeOverviewCertificateCpe": "Đủ ĐK nhận CN CPE",
+  "titleCpeManager": "Kết quả theo Trình dược viên",
+  "titleCpeManagerManage": "Học viên được Trình dược viên quản lý",
+  "titleCpeManagerActive": "Học viên đã kích hoạt khóa học",
+  "titleCpeManagerComplete": "Học viên đã hoàn thành khóa học",
+  "titleCpeManagerCertificate": "Học viên đủ ĐK nhận CN CPE",
+  "titleCpeLessonProgress": "Tiến độ học tập",
+  "titleCpeLessonProgressNote": "Chú thích",
+  "titleCpeLessonProgressView": "Đã xem",
+  "titleCpeLessonProgressViewExplain": "Số học viên đã xem ít nhất 70% video bài học",
+  "titleCpeLessonProgressTest": "Trắc nghiệm",
+  "titleCpeLessonProgressTestExplain": "Số học viên đã làm trắc nghiệm và bấm \"Lưu kết quả\"",
+  "titleCpeLessonProgressComplete": "Hoàn thành",
+  "titleCpeLessonProgressCompleteExplain": "Số học viên đã làm trắc nghiệm đạt 70%",
+  "titleCpeLessonProgressNotes": [
+    {
+      "titleCpeLessonProgressLegend": "Đã xem",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã xem ít nhất 70% video bài học"
+    },
+    {
+      "titleCpeLessonProgressLegend": "Trắc nghiệm",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã làm trắc nghiệm và bấm \"Lưu kết quả\""
+    },
+    {
+      "titleCpeLessonProgressLegend": "Hoàn thành",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã làm trắc nghiệm đạt 70%"
+    }
+  ],
+  "titleDpiVideo": "Video",
+  "titleDpiOverviewWatchClip": "Tổng lượng user xem clip",
+  "titleDpiOverviewCompletedSurvey": "Tổng lượng user đã hoàn thành khảo sát",
+  "titleSopProgram": "Chương trình",
+  "titleSopOverviewUserJoin": "Tổng lượng user\ntham gia chương trình",
+  "titleSopOverviewPharmacyJoin": "Tổng số nhà thuốc tham dự",
+  "titleSopOverviewPharmacistJoin": "Số lượng dược sĩ tham dự",
+  "titleSopGift": "Quà tặng",
+  "titleSopGiftStampScan": "Tống số tem đã quét",
+  "titleSopGiftPointInSystem": "Tổng số điểm hiện có trên hệ thống",
+  "titleSopGiftPointRedeemed": "Số điểm đã đổi",
+  "titleSopGiftPointNotRedeemed": "Số điểm chưa đổi quà",
+  "titleSopGiftGiftRedeemed": "Số quà tặng đã đổi"
+}

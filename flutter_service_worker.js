@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "12bb67c99ea8bb7e3d2ae911ed8c38bc",
-"assets/AssetManifest.smcbin": "254d400b04a65fb9b28d81626e016ad3",
+const RESOURCES = {"assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f5",
+"assets/AssetManifest.smcbin": "72aafcfab19d5e3f2fab7d47c9caa831",
 "assets/assets/images/logo/pharmacom.png": "62157be7104025492448a8cf38dd36f8",
 "assets/assets/images/logo/pharmacom_less.png": "1110d58efd2612114a2aec7b87e683f3",
 "assets/assets/images/medical_update/dau-da-day.jpg": "cee9c74087bb4fdf64618fc30bd0a7ad",
@@ -13,9 +13,11 @@ const RESOURCES = {"assets/AssetManifest.json": "12bb67c99ea8bb7e3d2ae911ed8c38b
 "assets/assets/images/medical_update/trao-nguoc.jpg": "250986c92a7e8bba25bbd1c3c0d1bb17",
 "assets/assets/images/medical_update/viem-amidan.jpg": "77ccda7d408601ad65ee074df67ca346",
 "assets/assets/images/medical_update/viem-xoang.jpg": "1e8ba43854f9890d97805ea358e2f987",
+"assets/assets/locales/en.json": "5bd7221d703f0c78a93f96a9e794798e",
+"assets/assets/locales/vi.json": "76ecda70f3a81571de0274f6c9153341",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "54bbfb00e36fe2dbb8e1be6c45f33bc8",
-"assets/NOTICES": "1bb38eb64758876f9f692929a180f2d4",
+"assets/NOTICES": "e05cbdadffd5ec83d4fb7891982e9feb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_login/assets/images/ecorp.png": "24e80e9441acf073076893cebbe60ac0",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "0db203e8632f03baae0184700f3bda48",
@@ -43,9 +45,9 @@ const RESOURCES = {"assets/AssetManifest.json": "12bb67c99ea8bb7e3d2ae911ed8c38b
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "cfff3a3902aff8a775940f5a51f30996",
 "icons/Icon-512.png": "48d2b17557419a18949272c13a14ec76",
-"index.html": "7432f61d16eedabdc02e85f414a295a8",
-"/": "7432f61d16eedabdc02e85f414a295a8",
-"main.dart.js": "05b7da08ff3cef7f1762bf5dfe7d4fb5",
+"index.html": "76e3e4a6183a48a16da2e565f529312c",
+"/": "76e3e4a6183a48a16da2e565f529312c",
+"main.dart.js": "c8cedba7603b003ced0b7326986e3d9a",
 "manifest.json": "6c78b34276cd4c89cf963fa51910dc32",
 "version.json": "aa33840cb398f135bc8abe5342c73571"};
 // The application shell files that are downloaded before a service worker can

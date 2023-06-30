@@ -1,0 +1,57 @@
+{
+  "titleCommonOverview": "Target management",
+  "titleCommonOverviewTarget": "Target",
+  "titleCommonOverviewProgress": "Progress",
+  "titleCommonObjectType": "Users",
+  "titleCommonObjectTypePharmacy": "Pharmacy",
+  "titleCommonObjectTypePharmacist": "Pharmacist",
+  "titleCommonProvince": "Distribution by Province",
+  "titleCpeCourse": "Course",
+  "titleCpeCoursePeriod": "Number of periods",
+  "titleCpeCourseDonor": "Donors",
+  "titleCpeCourseOrganizer": "Organizer",
+  "titleCpeCourseCompanionUnit": "Companion unit",
+  "titleCpeOverviewTakeCourse": "Take Course",
+  "titleCpeOverviewCompleteCourse": "Complete Course",
+  "titleCpeOverviewCertificateCpe": "CPE Certification",
+  "titleCpeManager": "Results according to Pharmacist",
+  "titleCpeManagerManage": "Students are managed by the Pharmacist",
+  "titleCpeManagerActive": "The student has activated the course",
+  "titleCpeManagerComplete": "Học viên đã hoàn thành khóa học",
+  "titleCpeManagerCertificate": "Học viên đủ ĐK nhận CN CPE",
+  "titleCpeLessonProgress": "Tiến độ học tập",
+  "titleCpeLessonProgressNote": "Chú thích",
+  "titleCpeLessonProgressView": "Đã xem",
+  "titleCpeLessonProgressViewExplain": "Số học viên đã xem ít nhất 70% video bài học",
+  "titleCpeLessonProgressTest": "Trắc nghiệm",
+  "titleCpeLessonProgressTestExplain": "Số học viên đã làm trắc nghiệm và bấm \"Lưu kết quả\"",
+  "titleCpeLessonProgressComplete": "Hoàn thành",
+  "titleCpeLessonProgressCompleteExplain": "Số học viên đã làm trắc nghiệm đạt 70%",
+  "titleCpeLessonProgressNotes": [
+    {
+      "titleCpeLessonProgressLegend": "Đã xem",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã xem ít nhất 70% video bài học"
+    },
+    {
+      "titleCpeLessonProgressLegend": "Trắc nghiệm",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã làm trắc nghiệm và bấm \"Lưu kết quả\""
+    },
+    {
+      "titleCpeLessonProgressLegend": "Hoàn thành",
+      "titleCpeLessonProgressLegendExplain": "Số học viên đã làm trắc nghiệm đạt 70%"
+    }
+  ],
+  "titleDpiVideo": "Video",
+  "titleDpiOverviewWatchClip": "Tổng lượng user xem clip",
+  "titleDpiOverviewCompletedSurvey": "Tổng lượng user đã hoàn thành khảo sát",
+  "titleSopProgram": "Chương trình",
+  "titleSopOverviewUserJoin": "Tổng lượng user\ntham gia chương trình",
+  "titleSopOverviewPharmacyJoin": "Tổng số nhà thuốc tham dự",
+  "titleSopOverviewPharmacistJoin": "Số lượng dược sĩ tham dự",
+  "titleSopGift": "Quà tặng",
+  "titleSopGiftStampScan": "Tống số tem đã quét",
+  "titleSopGiftPointInSystem": "Tổng số điểm hiện có trên hệ thống",
+  "titleSopGiftPointRedeemed": "Số điểm đã đổi",
+  "titleSopGiftPointNotRedeemed": "Số điểm chưa đổi quà",
+  "titleSopGiftGiftRedeemed": "Số quà tặng đã đổi"
+}
