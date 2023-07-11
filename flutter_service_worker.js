@@ -5,7 +5,6 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"assets/AssetManifest.bin": "86ddff9269ded4855732fda254d402e1",
 "assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f5",
-"assets/AssetManifest.smcbin": "72aafcfab19d5e3f2fab7d47c9caa831",
 "assets/assets/images/logo/pharmacom.png": "62157be7104025492448a8cf38dd36f8",
 "assets/assets/images/logo/pharmacom_less.png": "1110d58efd2612114a2aec7b87e683f3",
 "assets/assets/images/medical_update/dau-da-day.jpg": "cee9c74087bb4fdf64618fc30bd0a7ad",
@@ -46,9 +45,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "86ddff9269ded4855732fda254d402e1
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "cfff3a3902aff8a775940f5a51f30996",
 "icons/Icon-512.png": "48d2b17557419a18949272c13a14ec76",
-"index.html": "1b92c24aa0734a9e3b600739da2d4444",
-"/": "1b92c24aa0734a9e3b600739da2d4444",
-"main.dart.js": "1347971d85d2e27f446b9f31c4e18b56",
+"index.html": "93dbdea7b5b24125e43ee7b580df0dc3",
+"/": "93dbdea7b5b24125e43ee7b580df0dc3",
+"main.dart.js": "98f05ab4d1a00a10256204b814395bd3",
 "manifest.json": "6c78b34276cd4c89cf963fa51910dc32",
 "version.json": "aa33840cb398f135bc8abe5342c73571"};
 // The application shell files that are downloaded before a service worker can
