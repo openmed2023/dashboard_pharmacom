@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f5",
+const RESOURCES = {"assets/AssetManifest.bin": "86ddff9269ded4855732fda254d402e1",
+"assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f5",
 "assets/AssetManifest.smcbin": "72aafcfab19d5e3f2fab7d47c9caa831",
 "assets/assets/images/logo/pharmacom.png": "62157be7104025492448a8cf38dd36f8",
 "assets/assets/images/logo/pharmacom_less.png": "1110d58efd2612114a2aec7b87e683f3",
@@ -16,7 +17,7 @@ const RESOURCES = {"assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f
 "assets/assets/locales/en.json": "5bd7221d703f0c78a93f96a9e794798e",
 "assets/assets/locales/vi.json": "76ecda70f3a81571de0274f6c9153341",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/fonts/MaterialIcons-Regular.otf": "54bbfb00e36fe2dbb8e1be6c45f33bc8",
+"assets/fonts/MaterialIcons-Regular.otf": "04f0a01266f313c1bcf025ddd31e5ea3",
 "assets/NOTICES": "e05cbdadffd5ec83d4fb7891982e9feb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/flutter_login/assets/images/ecorp.png": "24e80e9441acf073076893cebbe60ac0",
@@ -45,9 +46,9 @@ const RESOURCES = {"assets/AssetManifest.json": "4688b7a529207c9f443ed785ff3e52f
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/Icon-192.png": "cfff3a3902aff8a775940f5a51f30996",
 "icons/Icon-512.png": "48d2b17557419a18949272c13a14ec76",
-"index.html": "76e3e4a6183a48a16da2e565f529312c",
-"/": "76e3e4a6183a48a16da2e565f529312c",
-"main.dart.js": "c8cedba7603b003ced0b7326986e3d9a",
+"index.html": "1b92c24aa0734a9e3b600739da2d4444",
+"/": "1b92c24aa0734a9e3b600739da2d4444",
+"main.dart.js": "1347971d85d2e27f446b9f31c4e18b56",
 "manifest.json": "6c78b34276cd4c89cf963fa51910dc32",
 "version.json": "aa33840cb398f135bc8abe5342c73571"};
 // The application shell files that are downloaded before a service worker can
